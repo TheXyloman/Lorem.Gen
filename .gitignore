@@ -1,3 +1,4 @@
 node_modules
 .vscode-test/
 *.vsix
+loremgen-0.0.1.vsix

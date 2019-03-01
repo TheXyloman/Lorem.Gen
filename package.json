@@ -2,6 +2,9 @@
 	"name": "loremgen",
 	"displayName": "Lorem.gen",
 	"description": "A simple Lorem Generator.",
+	"publisher": "TheXyloman",
+	"icon": "img/icon.png",
+	"repository": "https://github.com/TheXyloman/Lorem.Gen",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.31.0"
